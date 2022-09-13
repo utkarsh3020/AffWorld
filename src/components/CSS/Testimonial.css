@@ -1,0 +1,110 @@
+.testimonial .slick-arrow.slick-prev,
+.testimonial .slick-arrow.slick-next {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  border-radius: 50%;
+}
+
+.testimonial .slick-arrow.slick-prev{
+    margin-right: 5rem;
+}
+
+.testimonial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 60%;
+  padding: 60px;
+  min-width: 100%;
+  background: #fff;
+}
+.main {
+  padding: 20px 60px;
+}
+
+/* Cards */
+
+.Client-Card {
+  color: gray !important;
+  align-items: center !important;
+  flex-direction: column !important;
+  text-align: center !important;
+}
+.avatar {
+  width: 120px !important;
+  height: 120px !important;
+  border: 3px solid #994d47;
+  padding: 3px;
+}
+.Name {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #994d47;
+}
+
+.designation {
+  color: #994d47;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 600;
+}
+
+/* Slick Slider  */
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+.slick-slider {
+  padding: 25px !important;
+  border-radius: 50px !important;
+  box-shadow: 1px 3px 21px 9px rosybrown !important;
+  min-width: auto;
+}
+
+/* Customization of Slider Navigations*/
+
+.ft-slick__dots--custom {
+  margin-top: 1.5rem;
+  height: 3px;
+  width: 14px;
+  background-color: #ad6f69;
+  position: relative;
+}
+
+.slick-dots li {
+  width: 20px;
+  height: 0px;
+  margin: 10px -10px;
+  transition: width 0.3s ease-in-out;
+}
+
+.slick-dots .slick-active .ft-slick__dots--custom {
+  width: 20px;
+  top: 0px;
+  overflow: hidden;
+  background: #994d47;
+  margin-top: 26px;
+}
+
+@media(max-width: 650px){
+    .testimonial {
+        height: auto;
+        width: auto;
+        padding: 50px 10px;
+        min-width: 100%;
+        margin-top: 1rem;
+      }
+
+      .main {
+        padding: 20px;
+      }
+
+      .ft-slick__dots--custom {
+        display: none;
+      }
+
+}
