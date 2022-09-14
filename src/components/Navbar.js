@@ -14,7 +14,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav className="navbar-nav">
-          <Link className="logo" to="/home">
+          <Link className="logo" to="/">
             <span>A</span>ff<span>W</span>orld
           </Link>
           <div className="menu-links">
@@ -25,7 +25,7 @@ class Navbar extends Component {
               }
             >
               <li className="list-items">
-                <Link to="/home" className="links active">
+                <Link to="/" className="links active">
                   Home
                 </Link>
               </li>
