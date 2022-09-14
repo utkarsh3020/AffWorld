@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./CSS/Navbar.css";
 
+import { Link } from "react-router-dom";
+
 class Navbar extends Component {
   state = { clicked: false };
 
@@ -23,29 +25,29 @@ class Navbar extends Component {
               }
             >
               <li className="list-items">
-                <a className="links active" href="/">
+                <Link to="/" className="links active">
                   Home
-                </a>
+                </Link>
               </li>
               <li className="list-items">
-                <a className="links" href="/">
+                <Link className="links" to="/about">
                   About
-                </a>
+                </Link>
               </li>
               <li className="list-items">
-                <a className="links" href="/">
+                <Link className="links" to="/services">
                   Services
-                </a>
+                </Link>
               </li>
               <li className="list-items">
-                <a className="links" href="/">
+                <Link className="links" to="/contact">
                   Contact
-                </a>
+                </Link>
               </li>
               <li className="list-items">
-                <a className="links" href="/">
+                <Link className="links" to="joinus">
                   Join Us
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

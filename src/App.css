@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -24,22 +24,44 @@
   border-radius: 10px;
 }
 
-.sub-titles{
+.sub-titles {
   text-align: center;
   padding: 4rem 0;
   font-size: 2rem;
 }
 
-.sub-titles span{
+.sub-titles span {
   text-transform: uppercase;
   color: deeppink;
   font-family: cursive;
 }
 
-
-@media(max-width:550px){
-.sub-titles{
-  padding: 3rem 0;
-  font-size: 1.5rem;
+@media (max-width: 550px) {
+  .sub-titles {
+    padding: 3rem 0;
+    font-size: 1.5rem;
+  }
 }
+
+.about,
+.services,
+.contact,
+.JoinUs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.sub-service {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@media(min-width:950px){
+  .sub-service{
+    font-size: 5rem;
+  }
 }
