@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AffWorld/static/css/main.66320846.css",
-    "main.js": "/AffWorld/static/js/main.f8b3d5bc.js",
+    "main.css": "/AffWorld/static/css/main.7c83d185.css",
+    "main.js": "/AffWorld/static/js/main.1e4cbf63.js",
     "static/media/img1.avif": "/AffWorld/static/media/img1.d2cfaa3a92a5998b5ddd.avif",
     "static/media/img2.avif": "/AffWorld/static/media/img2.86a84c2faf0140b0960e.avif",
     "static/media/img3.avif": "/AffWorld/static/media/img3.ef06ffa583711aeeae35.avif",
@@ -12,11 +12,11 @@
     "static/media/slick.woff": "/AffWorld/static/media/slick.295183786cd8a1389865.woff",
     "static/media/background.svg": "/AffWorld/static/media/background.ebe5da282c07191a8fc8bc6ee64c5b63.svg",
     "index.html": "/AffWorld/index.html",
-    "main.66320846.css.map": "/AffWorld/static/css/main.66320846.css.map",
-    "main.f8b3d5bc.js.map": "/AffWorld/static/js/main.f8b3d5bc.js.map"
+    "main.7c83d185.css.map": "/AffWorld/static/css/main.7c83d185.css.map",
+    "main.1e4cbf63.js.map": "/AffWorld/static/js/main.1e4cbf63.js.map"
   },
   "entrypoints": [
-    "static/css/main.66320846.css",
-    "static/js/main.f8b3d5bc.js"
+    "static/css/main.7c83d185.css",
+    "static/js/main.1e4cbf63.js"
   ]
 }
