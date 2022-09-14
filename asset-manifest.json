@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AffWorld/static/css/main.7c83d185.css",
-    "main.js": "/AffWorld/static/js/main.1e4cbf63.js",
-    "static/media/img1.avif": "/AffWorld/static/media/img1.d2cfaa3a92a5998b5ddd.avif",
-    "static/media/img2.avif": "/AffWorld/static/media/img2.86a84c2faf0140b0960e.avif",
-    "static/media/img3.avif": "/AffWorld/static/media/img3.ef06ffa583711aeeae35.avif",
-    "static/media/contact.svg": "/AffWorld/static/media/contact.74b5c8fca2c73a4f1c06306d9a1df4f1.svg",
-    "static/media/slick.svg": "/AffWorld/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/AffWorld/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/AffWorld/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/AffWorld/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/background.svg": "/AffWorld/static/media/background.ebe5da282c07191a8fc8bc6ee64c5b63.svg",
-    "index.html": "/AffWorld/index.html",
-    "main.7c83d185.css.map": "/AffWorld/static/css/main.7c83d185.css.map",
-    "main.1e4cbf63.js.map": "/AffWorld/static/js/main.1e4cbf63.js.map"
+    "main.css": "/AffWorld/home/static/css/main.0ceb0b7e.css",
+    "main.js": "/AffWorld/home/static/js/main.5c85f9a2.js",
+    "static/media/img1.avif": "/AffWorld/home/static/media/img1.d2cfaa3a92a5998b5ddd.avif",
+    "static/media/img2.avif": "/AffWorld/home/static/media/img2.86a84c2faf0140b0960e.avif",
+    "static/media/img3.avif": "/AffWorld/home/static/media/img3.ef06ffa583711aeeae35.avif",
+    "static/media/contact.svg": "/AffWorld/home/static/media/contact.74b5c8fca2c73a4f1c06306d9a1df4f1.svg",
+    "static/media/slick.svg": "/AffWorld/home/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AffWorld/home/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AffWorld/home/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AffWorld/home/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/background.svg": "/AffWorld/home/static/media/background.ebe5da282c07191a8fc8bc6ee64c5b63.svg",
+    "index.html": "/AffWorld/home/index.html",
+    "main.0ceb0b7e.css.map": "/AffWorld/home/static/css/main.0ceb0b7e.css.map",
+    "main.5c85f9a2.js.map": "/AffWorld/home/static/js/main.5c85f9a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c83d185.css",
-    "static/js/main.1e4cbf63.js"
+    "static/css/main.0ceb0b7e.css",
+    "static/js/main.5c85f9a2.js"
   ]
 }
